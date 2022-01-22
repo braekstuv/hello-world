@@ -7,20 +7,20 @@ Once you use it, there is no turning back...
 
 Clone the repository, cd into it and run the install script:
 
-<pre><code>
+```sh
 git clone https://github.com/braekstuv/hello-world.git
 cd ./hello-world
 sh ./install.sh
-</code></pre>
+```
 
 To use the cli, just run:
 
-<pre><code>
+```sh
 hello-world
-</code></pre>
+```
 
 If you wish to uninstall, just run
 
-<pre><code>
+```sh
 sh ./uninstall.sh
-</code></pre>
+```
